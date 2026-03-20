@@ -85,7 +85,6 @@ Pandas / NumPy / Matplotlib / Seaborn: Data manipulation and visualization
 -   **Trends:** Track releases and average popularity across decades
 
 
-**Key Insights:** Business-focused summary of findings
 
 
 **Key Insights**
