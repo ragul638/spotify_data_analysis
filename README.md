@@ -14,13 +14,13 @@ This project involves analyzing a Spotify dataset to uncover insights about musi
 
 ## Tools & Technologies
 
-**Python:** For data loading, cleaning, and Exploratory Data Analysis (EDA)
+-   **Python:** For data loading, cleaning, and Exploratory Data Analysis (EDA)
 
 Pandas / NumPy / Matplotlib / Seaborn: Data manipulation and visualization
 
-**Power BI:** Interactive dashboard creation
+-   **Power BI:** Interactive dashboard creation
 
-**CSV:** Data storage and preprocessing
+-   **CSV:** Data storage and preprocessing
 
 ## Project Steps
 
